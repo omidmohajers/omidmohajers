@@ -62,9 +62,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omidmohajers&theme=leafy&border_radius=6)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omidmohajers&theme=leafy&border_radius=6)](https://github.com/omidmohajers)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omidmohajers&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omidmohajers&layout=compact&theme=vision-friendly-dark)](https://github.com/omidmohajers)
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omidmohajers)](https://github-readme-stats.vercel.app/api?username=omidmohajers)
   
